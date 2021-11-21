@@ -1,0 +1,1 @@
+export const RandomStringData="'0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'"
